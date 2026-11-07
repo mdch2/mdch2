@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maryuri Castellanos Horta
+# Maryuri Horta
 
 ### Full Stack Software Engineer
 
