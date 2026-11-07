@@ -8,11 +8,13 @@
 
 **Web applications · Backend systems · Mobile experiences**
 
+Co-founder at [BeMyTech](https://bemytech.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maryuri-castellanos-horta-265058211)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdch0092@gmail.com)
 [![Work GitHub](https://img.shields.io/badge/GitHub-Work_Profile-181717?logo=github&logoColor=white)](https://github.com/maryurihorta)
 
-[Featured projects](#featured-projects) · [About me](#about-me) · [Tech stack](#tech-stack)
+[Featured projects](#featured-projects) · [About me](#about-me) · [Tech stack](#-tech-stack)
 
 </div>
 
@@ -35,14 +37,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>WEB · DESIGN &amp; DEVELOPMENT</sub>
-      <h3><a href="https://app.castevo.com/">Castevo Landing →</a></h3>
-      <p>Website design and development.</p>
+      <sub>MOBILE · HABITS &amp; ROUTINES</sub>
+      <h3><a href="https://github.com/mdch2/daily-tracker">Daily Tracker →</a></h3>
+      <p>Mobile app in development for tracking daily habits and organizing routines, built with React Native, Expo, and Supabase.</p>
     </td>
     <td width="50%" valign="top">
-      <sub>WEB · BRAND &amp; USER EXPERIENCE</sub>
-      <h3><a href="https://bemytech.io/">BeMyTech Landing →</a></h3>
-      <p>Landing page design and development focused on technology services, branding, and user experience.</p>
+      <sub>COMPANY · CO-FOUNDER</sub>
+      <h3><a href="https://bemytech.io/">BeMyTech →</a></h3>
+      <p>Co-founder of BeMyTech, a technology company focused on software development and digital solutions.</p>
     </td>
   </tr>
 </table>
@@ -55,20 +57,9 @@ I have hands-on experience with PHP (Laravel & Blade), React, Next.js, and Flutt
 
 I’m committed to continuous learning and actively seeking opportunities to contribute to challenging projects, solve real problems, and collaborate with high-performing teams.
 
-## Tech stack
+## 💻 Tech stack
 
-| Area | Technologies & tools |
-| :--- | :--- |
-| **Languages** | TypeScript · JavaScript · PHP · Dart |
-| **Web & mobile** | React · Next.js · Laravel · Blade · Flutter · Tailwind CSS · Bootstrap |
-| **Backend & APIs** | Node.js · NestJS · GraphQL · Apollo GraphQL · Twilio |
-| **Data** | PostgreSQL · Supabase · MySQL · MongoDB · Redis · Firebase |
-| **Cloud & delivery** | AWS · Docker · Vercel · Git · GitHub · GitLab · GitHub Actions |
-| **Quality & tooling** | Jest · Postman · ESLint · Prettier · npm · pnpm |
-| **Design & collaboration** | Figma · Canva · Jira · Trello · Notion |
-
-<details>
-<summary>Explore the full technology badge collection</summary>
+<div align="center">
 
 **Languages**
 
@@ -98,7 +89,7 @@ I’m committed to continuous learning and actively seeking opportunities to con
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-</details>
+</div>
 
 ---
 
